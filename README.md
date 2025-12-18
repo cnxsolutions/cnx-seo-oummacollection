@@ -142,8 +142,8 @@ La plateforme est conçue pour :
 ## 📄 Documentation Complémentaire
 
 - [Architecture & développement e-commerce](docs/architecture/overview.md)
-- [Stratégie SEO avancée](docs/seo/seo-strategy.md)
-- [Stratégie marketing & acquisition](docs/marketing/acquisition-strategy.md)
+- [Stratégie SEO avancée](docs/architecture/seo-strategy.md)
+- [Stratégie marketing & acquisition](docs/architecture/acquisition-strategy.md)
 
 ---
 
