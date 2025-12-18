@@ -15,8 +15,8 @@ irréprochable** et une **stratégie marketing multi-canal**.
 > (aucune donnée sensible ou accès administrateur exposé)
 
 ![Page d’accueil](docs/screenshots/homepage.png)
-![Page produit](docs/screenshots/product-priere.png)
-![Tunnel d’achat](docs/screenshots/checkout.png)
+![Page produit](docs/screenshots/produits.png)
+![Tunnel d’achat](docs/screenshots/tunnel.png)
 
 ---
 
